@@ -1,0 +1,20 @@
+.converterContainer {
+	width: 80vw;
+	margin: 20px auto;
+
+	h1 {
+		color: #ccc;
+	}
+
+	.converterForm {
+
+		display: flex;
+		flex-direction: row;
+
+		textarea {
+			width: 48%;
+			height: 80vh;
+			margin: 10px 1%;
+		}
+	}
+}
